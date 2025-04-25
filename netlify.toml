@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://cdn.jsdelivr.net/npm/:splat"
+  status = 200
