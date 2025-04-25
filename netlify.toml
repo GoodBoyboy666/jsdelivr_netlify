@@ -1,4 +1,4 @@
 [[redirects]]
-  from = "/npm"
-  to = "https://cdn.jsdelivr.net/:splat"
+  from = "/npm/*"
+  to = "https://cdn.jsdelivr.net/npm/:splat"
   status = 200
